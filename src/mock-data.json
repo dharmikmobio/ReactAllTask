@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "fullName": "Dharmik Patel",
+    "address": "Ahmedabad",
+    "phoneNumber": "7600006692",
+    "email": "dharmikp.mobio@gmail.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Dharmik Vasoya",
+    "address": "Ahmedabad Gujarat",
+    "phoneNumber": "9898669337",
+    "email": "dharmikpatel6692@gmail.com"
+  },
+  {
+    "id": 3,
+    "fullName": "Ishan Patel",
+    "address": "Naroda Ahmedabad",
+    "phoneNumber": "788-962-7516",
+    "email": "ishanpatel@email.com"
+  },
+  {
+    "id": 4,
+    "fullName": "Neel Patel",
+    "address": "Nikol Ahmedabad",
+    "phoneNumber": "011-962-111",
+    "email": "neelpatel@email.com"
+  }
+]
